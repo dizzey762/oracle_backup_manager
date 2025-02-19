@@ -229,7 +229,6 @@ def oracle_backup_manager(
                 logging.warning("Invalid choice. Select from 1 to 6.")
 
 
-# РџРѕР»СѓС‡РµРЅРёРµ СЃРїРёСЃРєР° СЃ РѕР±СЉРµРєС‚Р°РјРё
 def list_objects(connection, object_type):
     """List objects of a specified type."""
     cursor = connection.cursor()
