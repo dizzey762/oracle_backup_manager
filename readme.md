@@ -21,10 +21,16 @@ ____
 <a id="tools"></a>
 ## <a name="Технологии и инструменты">**Технологии и инструменты:**</a>
 
+<style>
+        img {
+            margin: 20px; /* Adds 10px of space around each image */
+        }
+    </style>
+    
 <p align="center">  
-<a href="https://www.oracle.com/"><img src="images/logo/oracle.svg" width="50" height="50"  alt="IDEA"/></a>  
-<a href="https://www.python.org/"><img src="images/logo/python.svg" width="50" height="50"  alt="python"/></a>  
-<a href="https://github.com/"><img src="images/logo/github.svg" width="50" height="50"  alt="Github"/></a>  
+<a href="https://www.oracle.com/"><img src="images/logo/oracle.svg" width="50" height="50" margin: 300px  alt="IDEA"/></a>  
+<a href="https://www.python.org/"><img src="images/logo/python.svg" width="50" height="50" margin-right = 30px alt="python"/></a>  
+<a href="https://github.com/"><img src="images/logo/github.svg" width="50" height="50" margin-right = 30px  alt="Github"/></a>  
 <a href="https://code.visualstudio.com/"><img src="images/logo/vscode.svg" width="50" height="50"  alt="JUnit 5"/></a>   
 </p>
 
